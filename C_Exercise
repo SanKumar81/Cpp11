@@ -1,4 +1,11 @@
 -> First program "Hello World"
 -> Variable declaration, initalizatio. Uniform initialization
--> VS debugging, pointer & reference, nullptr use
--> 
+-> VS debugging, pointer & reference, nullptr use, reference vs pointer
+-> Factorial
+-> const, constexpr, auto, for each loop, default value in function, inline function
+-> name mangling (create overload functon name), function pointer, namespace
+-> malloc, calloc, new, delete, std::bad_alloc exception
+-> OOPS (Abstraction, Encapsulation, Inheritance, Polymorphism) 
+-> class - blueprint/template, struct, const member function, copy constructor, delegating constructor
+-> deep and shallow copy
+
