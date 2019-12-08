@@ -9,5 +9,14 @@
 -> class - blueprint/template, struct, const member function, copy constructor, delegating constructor
 -> deep and shallow copy, default & delete function, l-value & r-value,std::move()
 -> rule of 5(constructor,copy con, move con, copy assignment, move assignment)
--> operator overloading
-
+-> operator overloading, unique_ptr, shared_ptr, weak_ptr, circular reference
+-> static_cast, const_cast, reinterpret_cast, explicit, implicit
+-> enum,enum class, string, initalizer_list, vector
+-> Inheritance (single,multi-level, multiple, diamond), access specifier (private,public,protected), 
+-> virtual, override, final,type_info,typeid, RTTI
+-> static_cast, const_cast,reinterpret_cast, dynamic_cast
+-> fstream, ifstream, ofstream, ios::mode, experimental::filesystem, write/read
+-> template, partial specialization, function and class
+-> function pointer, function object, lamda expression, capture list, return type, mutable lamda, callback in template
+-> array, list, forward_list, deque, vector, set, multiset, map, multimap, urordered_set, urordered_multiset, urordered_map, unordered_multimap
+-> std_thread, thread::join
