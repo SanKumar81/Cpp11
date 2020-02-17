@@ -2,10 +2,29 @@
 //
 
 #include <iostream>
+#include <conio.h>
+#include "Calculator.h"
+
+using namespace std;
 
 int main()
 {
-    std::cout << "Hello World!\n";
+    double x = 0.0f;
+    double y = 0.0;
+    char oper = '+';
+    double result = 0.0;
+    cout << "Calculator Console Application \n\n";
+    cout << "Please enter the operation to perform. Format: a+b | a-b | a*b | a/b" << endl;
+
+    Calculator c;
+    do
+    {
+        cin >> x >> oper >> y;
+        result = c.Calculate(x, oper, y);
+        cout << "Result is " << result << endl;
+        cout << "Press Y for Next " << endl;
+    } while (_getch() == 'Y');
+    return 0;
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
