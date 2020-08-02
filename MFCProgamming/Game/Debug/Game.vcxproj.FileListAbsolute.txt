@@ -1,0 +1,2 @@
+C:\Users\NEW\Source\Repos\SanKumar81\MFCProgramming\Game\Debug\Game.exe
+C:\Users\NEW\Source\Repos\SanKumar81\MFCProgramming\Game\Debug\Game.pdb
